@@ -1,0 +1,30 @@
+{
+  "short_name": "WebClient Demo",
+  "name": "WebClient PWA Demo",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+        "src": "logo-36.png",
+        "type": "image/png",
+        "sizes": "36x36"
+      },
+      {
+        "src": "logo-72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "logo-128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+    {
+      "src": "logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
