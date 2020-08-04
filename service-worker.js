@@ -1,5 +1,5 @@
-importScripts("/precache-manifest.a90784f714c8d053adfe6be0a0801dfc.js", "/workbox-v4.3.1/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/workbox-v4.3.1"});
+importScripts("/precache-manifest.89fb19b2f34d8f971ab8f84e081d3b97.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+
 /* eslint-disable */ 
 // eslint-disable-next-line no-restricted-globals
 
