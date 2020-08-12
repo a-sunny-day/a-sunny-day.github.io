@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://rwgdev100.zoomdev.us:11099/pwa-cdn/static/css/main.css",
+    "main.js": "https://rwgdev100.zoomdev.us:11099/pwa-cdn/static/js/main.js",
+    "main.js.map": "https://rwgdev100.zoomdev.us:11099/pwa-cdn/static/js/main.js.map",
+    "css/main.css.map": "https://rwgdev100.zoomdev.us:11099/pwa-cdn/static/css/main.css.map",
+    "index.html": "https://rwgdev100.zoomdev.us:11099/pwa-cdn/static/index.html",
+    "js/main.js.LICENSE.txt": "https://rwgdev100.zoomdev.us:11099/pwa-cdn/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "css/main.css",
+    "js/main.js"
+  ]
+}
