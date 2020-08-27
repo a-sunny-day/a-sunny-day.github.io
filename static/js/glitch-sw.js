@@ -1,5 +1,5 @@
-const cachesName = "pwa";
-
+const cachesName = `pwa-${self.__version__}`";
+console.log("cache name: ", cachesName);
 self.addEventListener('install', function(e) {
     e.waitUntil(
         caches.open(cachesName)
