@@ -1,4 +1,4 @@
-const cachesName = `pwa-${self.__version__ || 0}`";
+const cachesName = `pwa-${self.__version__ || 0}`;
 console.log("cache name: ", cachesName);
 self.addEventListener('install', function(e) {
     e.waitUntil(
