@@ -22,4 +22,4 @@ self.addEventListener('fetch', function(e) {
     )
 })
 
-console.log("time:1");
+console.log("time: 2");
